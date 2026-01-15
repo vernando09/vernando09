@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ilham Nur Romdoni
+# 👋 Hi there, I'm Vernando Septian
 
 ![Code](https://img.shields.io/badge/code-laravel-red?style=for-the-badge&logo=laravel)
 ![Code](https://img.shields.io/badge/code-python-blue?style=for-the-badge&logo=python)
@@ -14,7 +14,7 @@ I go by the personal brand **hmmr** and currently work as a freelancer.
 
 ✨ I build with:
 
-- Laravel for robust backends
+- Laravel for robust backends / 
 - Python (Flask/Django) for clean APIs
 - PostgreSQL / MySQL for database design
 - Bootstrap / Tailwind for responsive interfaces
@@ -25,7 +25,7 @@ I go by the personal brand **hmmr** and currently work as a freelancer.
 
 ```yaml
 Languages:   PHP, Python, JavaScript
-Frameworks:  Laravel, Flask, Django
+Frameworks:  Laravel, Express (Node.js)
 Databases:   PostgreSQL, MySQL
-Frontend:    HTML, CSS, Tailwind, Bootstrap
-Tools:       Git, GitHub, Postman, Docker
+Frontend:    HTML, CSS, Tailwind, Bootstrap, React
+Tools:       Git, GitHub, Postman
