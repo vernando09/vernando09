@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vernando Septian
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vernando+Septian;Fullstack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Open+to+Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vernando+Septian;Fullstack+Developer;Laravael+%7|+%7React+%7C+Node.js+%7C+PostgreSQL;Open+to+Work" />
 </p>
 
 ![Code](https://img.shields.io/badge/code-laravel-red?style=for-the-badge&logo=laravel)
