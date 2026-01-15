@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Vernando Septian**, a fullstack web developer who loves building solid, scalable, and clean web apps.  
-I go by the personal brand **hmmr** and currently work as a freelancer.
 
 ✨ I build with:
 
