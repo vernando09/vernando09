@@ -15,7 +15,7 @@ I go by the personal brand **hmmr** and currently work as a freelancer.
 ✨ I build with:
 
 - Laravel for robust backends / 
-- Python (Flask/Django) for clean APIs
+- Python for clean APIs
 - PostgreSQL / MySQL for database design
 - Bootstrap / Tailwind for responsive interfaces
 
